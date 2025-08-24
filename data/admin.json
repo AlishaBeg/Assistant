@@ -1,0 +1,22 @@
+{
+    "admin": [
+        {
+            "id": 0,
+            "AS": "root",
+            "username": "Mayank",
+            "password": "$2b$12$i9MxzCG1j6B7hvrs08KsMu3lzRjJ46lCuMwBccDEWu2kMnbpKLkR.",
+            "number": "9592173569",
+            "email": null,
+            "location": null
+        },
+        {
+            "id": 0,
+            "AS": "user",
+            "username": "user",
+            "password": "$2b$12$kafTmVMeGi4g3bdsQXPQn.WcQILLzAiC/hBgyUyX5IuShrDozbc4u",
+            "number": "9211420420",
+            "email": null,
+            "location": null
+        }
+    ]
+}
